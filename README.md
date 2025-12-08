@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Khushi Rajput 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Undergraduate;Building+ML+%26+Generative+AI+Projects;Turning+Data+into+Smart+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=A+Passionate+Data+Scientist;Building+ML+%26+Generative+AI+Projects;Turning+Data+into+Smart+Applications" alt="Typing SVG" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajput-khushi&label=Profile%20views&color=0e75b6&style=flat" alt="rajput-khushi" /> </p>
 
 ---
 

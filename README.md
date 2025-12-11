@@ -6,6 +6,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajput-khushi&label=Profile%20views&color=0e75b6&style=flat" alt="rajput-khushi" /> </p>
 
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajput-khushi">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khushirajput1204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khushirajput1204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajput-khushi">
+    <img src="https://img.shields.io/badge/GitHub-rajput--khushi-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 👩‍🎓 About Me
@@ -50,17 +64,3 @@ Machine Learning · Deep Learning · NLP · Generative AI · Predictive Modeling
 
 **Tools & Cloud**  
 Streamlit · Jupyter · VS Code · AWS (EC2, S3) 
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajput-khushi">
-    <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:khushirajput1204@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khushirajput1204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rajput-khushi">
-    <img src="https://img.shields.io/badge/GitHub-rajput--khushi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
